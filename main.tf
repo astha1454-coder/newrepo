@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "astharg" {
-  name     = "astharg"
+  name     = "astha-rg"
   location = "Central India"
 }
 
